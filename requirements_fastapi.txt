@@ -1,0 +1,8 @@
+agno
+google-generativeai
+firecrawl
+firecrawl-py
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
