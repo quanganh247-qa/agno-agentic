@@ -1,5 +1,6 @@
 agno
 google-generativeai
+google-genai
 firecrawl
 firecrawl-py
 fastapi
